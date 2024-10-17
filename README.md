@@ -1,9 +1,10 @@
 ### Projeto_python_consulta_pagamento ###
 '''
 Import openpyxl
-from selenium import webdriver 
-from selenium.webdriver.common.by import By
-from time import sleep
+/
+from selenium import webdriver /
+from selenium.webdriver.common.by import By/
+from time import sleep/
 
 # 1. Entrar na planilha e extrair o CPF do cliente 
 
