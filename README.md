@@ -2,7 +2,8 @@
 '''
 Import openpyxl
 
-#1. Entrar na planilha e extrair o CPF do cliente#
+# 1. Entrar na planilha e extrair o CPF do cliente #
+
 Planilha_Clientes = openpyxl.load_workbook('dados_clientes.xlsx')
 pagina_clientes = Planilha_Clientes['Sheet1']
 
