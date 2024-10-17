@@ -24,3 +24,4 @@ for linha in pagina_clientes.iter_rows(min_row=2,values_only=True):
 # 7. Repetir até chegar ao ultimo cliente. 
 
    '''
+###CREDITOS DO PROKETO https://www.youtube.com/watch?v=4ZSWZg2daqQ&t=2371s
